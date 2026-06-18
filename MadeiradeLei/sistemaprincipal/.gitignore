@@ -34,3 +34,4 @@ build/
 dataBase.txt
 *.txt
 /application.properties
+*.env
