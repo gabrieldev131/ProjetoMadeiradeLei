@@ -33,3 +33,4 @@ build/
 .vscode/
 dataBase.txt
 *.txt
+/application.properties
